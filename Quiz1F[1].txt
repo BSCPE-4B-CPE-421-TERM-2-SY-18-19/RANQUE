@@ -1,0 +1,9 @@
+WHY DOES THE RASPBERRY PI FUNCTIONING?
+
+	The raspberry pi is functioning because an operating system is already installed on it,
+and the wires that we used in connecting the raspbery pi and the projector are in good condition.
+Specially the charger that we used that serves as the power supply is functioning and it was in 
+good condition.
+	All this answer is according to Neil Cotacte, a student from the other section because the've
+tried using the raspberry pi. And also, according to Christian Lloyd Salon, our classmate, becuase he did
+some research. We also found answers in this site; elinux.org/R.Pi_troubleshooting. 

@@ -1,0 +1,8 @@
+
+
+	Base in our observation and as we checked the system unit we found that the fuse of the power supply was defective.
+That's why we fail to check the other parts of the system unit if there are other parts that is defective. We have also observed 
+that the system unit is dusty, and the wires can be easily tear apart, meaning, it is already old, and this situation can already 
+affect the system unit.
+	So, I recommend to clean the system unit. Replace the fuse and other parts that is already old, or buy a new power supply 
+or new system unit. 
