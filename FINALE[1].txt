@@ -1,0 +1,50 @@
+	The life as a college student is not easy, there are lots of trials and struggles that we have to face and surpass.
+Especially when you took up engineering courses in Bohol Island State University Main Campus, you really have to be strong 
+and hardworking in order for you to survive and pass all your subjects. Taking up 5 year course in college, is difficult, 
+especially when you take up Bachelor of Science in Computer Engineering. Hard work, dedication, perseverance, inspiration, 
+and love in your course are what you need. There is no year or semester that you can feel relax in BISU, the life there is 
+very tough. There are lots of projects that you have to pass on time, lots of sleepless nights, quizzes and major exams that 
+you have to pass, and most specially, instructors that are very terror and hard to deal with. Just like this semester, I can 
+say that, it is one of the most tiring semesters that I have experience in my college life. I have 7 subjects this semester 
+and majority of it are major subjects, including, software engineering, numerical analysis, principles of communication, linux, 
+elective, and trouble shooting of computer systems. Software Engineering as well as Elective, handled by Mr. Uy, is one of the 
+hardest subjects this semester, because it is a project base subject. In this subjects, we need to look for a client and propose
+our project to the instructor, and it is up to him if he well accept it, or reject it. And in order for us to pass this subject 
+we have to pass our project on time. Another one is, Principles of Communication and Linux Operating System, handled by Mr. Anuta. 
+In this subject, you will also experience sleepless nights because of the quizzes and major exams. You have to listen carefully 
+during discussion and study hard in order for you to pass this subject. And when you are given assignments, and project by the 
+instructor, you also have to pass it on time. We also have Numerical Analysis, handled by Mr. Lauron, and it is obviously a math
+subject. I can say that, it is not a hard subject, unlike our other math subjects. You just have to listen and take down notes 
+every discussion and study hard whenever there’s a quiz or major exam. When you are given a project, you also have to pass it on 
+time. And lastly, is the trouble shooting of computer system which is handled by Mr. Perin. In this subject, we were paired into 
+16 pairs and each pair was given topics to be reported in the class. Me and my partner, is the 9th reporter, and we have to report 
+the topic about SCSI or the Small Computer System Interface. We are also asked to make a slideshow of our topic and explain it in 
+front of the class. That is why, me and my partner felt a little bit nervous and scared because we have no idea about our topic. 
+So what we did is, we research it and share each other’s idea, that’s why we finished our report nicely. On the day of our reporting, 
+honestly, I felt very nervous because I’m afraid that I can’t explain it clearly to our classmates and I know that it will be our 
+own classmates who will give us grades and it will be base in our reporting and how we explain our topics. Good thing is, my partner 
+helped me a lot, that’s why we received good grades from our classmates. After all the pairs finished their reports, we are asked 
+to study all the 16 topics because we will have an exam. After all the reporting activity and major exam for the midterm, our instructor
+divide our class into two groups and gave us two quizzes for the finals, regarding troubleshooting.  At first, we were given raspberry 
+pi and our task is to troubleshoot it, but the raspberry pi works properly when we tried it. Second is, we were given a system unit 
+and we were given a task to troubleshoot it, so we troubleshoot it. After the quizzes, our instructor grouped us again and gave us 
+topics that we have to research, compile and pass on time. Lastly, our instructor wants us to send the answers in our quizzes at 
+github.com, that is why we make an account in github and send our answers. Our experience in our troubleshooting subject is not also
+easy, but, it is fun. Even though we didn’t meet our expectations in this subject, we have still learned and discover new things, 
+just like the Baybayin. Becasue this is the only subject that uses baybin. I can still remember our midterm exam in this subject, 
+it was written in baybayin even the front page of our paper, it was in baybayin. There was also a part in our exam that was written 
+in babayin that we have to translate and answer. All of us got shock upon seeing our test papers because it was our first time that 
+we encounter baybayin and we have no knowledge about it. But, despite that hardship, still, we were able to answer that exam. I really
+expect a lot in this subject, I thought that we can experience troubleshooting the hardware of the computer, we can  experience 
+assembling and disassembling it, and  we will have more knowledge about it just like the higher year students. But still, we’ve enjoyed 
+it and learned from this subject. I know that our instructor, Mr. Perin, did his best to teach us well. I also understand that Mr. Perin
+is new in teaching profession. But, Mr. Perin is cool, understanding, and approachable, we can even chitchat with him inside the class,
+and we can laugh with him. He is not like the other instructors, he don’t pressure us, he don’t give us lot of hard requirements, and 
+he understand our side as a student. That’s why all of us are very thankful to him because even though we have terror instructors 
+Mr. Perin is still there who is willing to understand us.
+	We all know that studying is not really easy, you need to have patience, perseverance, hard work and dedication. You just have
+to study hard for you to achieve your goals and dream in life. I know that where I am right now, whatever I am facing right now is not
+just an accident. I know that God is using this situation to shape and prepare me for the place He wants to bring me into tomorrow. 
+I know that this is just a part of challenges in life. And I really believe that, before you experience success, you really have to 
+work hard for it. There is purpose in every trial, storm, battle and hardship. We just have to trust Him with His plan even if we don’t
+understand it. And don’t give up when life is tough.
